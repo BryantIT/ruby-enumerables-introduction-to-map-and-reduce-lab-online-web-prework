@@ -1,3 +1,3 @@
 def map_to_negativize (source_array)
-  source_array.map {x-1}
+  source_array.map {
   
