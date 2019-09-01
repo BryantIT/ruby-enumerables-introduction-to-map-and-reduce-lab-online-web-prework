@@ -65,3 +65,4 @@ def reduce_to_all_false (source_array)
   end
   return false
 end
+
