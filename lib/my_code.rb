@@ -54,5 +54,5 @@ def reduce_to_to_all_true (source_array)
   return false if 
   counter += 1
   end
-  return total
+  return TRUE
 end
