@@ -45,6 +45,6 @@ def reduce_to_total (source_array, starting_point=0)
   array_done.push (source_array[counter] *-1)
   counter += 1
   end
-  return array_done
+  return total
 end
 end
